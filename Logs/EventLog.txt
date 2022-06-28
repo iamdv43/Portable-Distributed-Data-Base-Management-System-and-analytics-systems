@@ -1,0 +1,5 @@
+update || date Sun Apr 11 09:13:45 ADT 2022 || hostname distributed-database-1 || user anandani ||
+delete || date Sun Apr 11 09:13:52 ADT 2022 || hostname distributed-database-1 || user anandani ||
+insert || date Sun Apr 11 09:14:01 ADT 2022 || hostname distributed-database-1 || user anandani ||
+insert || date Sun Apr 11 09:14:15 ADT 2022 || hostname distributed-database-1 || user anandani ||
+create || date Sun Apr 11 09:14:24 ADT 2022 || hostname distributed-database-1 || user anandani ||
